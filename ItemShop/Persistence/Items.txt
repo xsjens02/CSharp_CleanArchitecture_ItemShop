@@ -1,0 +1,5 @@
+1|Elegant gold necklace|299,99
+2|Classic silver ring|89,99
+3|Sparkling diamond earrings|499,99
+4|Timeless pearl necklace|159,99
+5|Charming bracelet with personalized charms|129,00
